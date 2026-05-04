@@ -1,24 +1,24 @@
 {
   "governor": {
-    "name": "Addison Forbes Montgomery, M.D., F.A.C.S, F.A.C.O.G.",
-    "shortName": "Governor Montgomery",
-    "title": "Governor of the State of Washington",
-    "tenure": "Inaugurated December 2019",
+    "name": "Olivia Isobel Rodrigo",
+    "shortName": "Governor Rodrigo",
+    "title": "Governor of the State of Minnesota",
+    "tenure": "Inaugurated January 2019",
     "bio": [
-      "Addison Forbes Montgomery is the 23rd Governor of the State of Washington. A board-certified surgeon and obstetrician-gynecologist by training, Governor Montgomery brought decades of clinical and administrative leadership in academic medicine to public service before being elected to the state's highest office.",
-      "Her administration has focused on the health of our communities, the stability of our economy, the advancement of our infrastructure, the integrity of our democracy, the strength of our public institutions, the value we place in a high-trust society, and the promise of a better future for all Washingtonians.",
-      "Governor Montgomery resides in Olympia with her family. She remains an attending physician of record at Seattle Grace Hospital on a limited, pro bono basis."
+      "Olivia Rodrigo is the 41st Governor of the State of Minnesota. A Grammy Award-winning singer-songwriter by early career and a nationally recognized advocate for youth civic engagement, Governor Rodrigo transitioned from the entertainment industry into public service, where she leveraged her platform to champion education, mental health awareness, and generational equity before being elected to the state’s highest office.",
+      "Her administration has focused on strengthening Minnesota’s public education system, expanding access to affordable healthcare, investing in climate resilience across the state’s urban and rural communities, modernizing infrastructure, and fostering a culture of civic participation and transparency in government.",
+      "Governor Rodrigo resides in Saint Paul with her family. She continues to support arts education initiatives statewide and maintains an active role in philanthropic efforts aimed at empowering young leaders."
     ]
   },
   "hero": {
-    "headline": "A government that meets the moment for every Washingtonian.",
-    "lede": "From the San Juans to the Palouse, the work of state government is to keep our communities safe, our economy moving, and our promises to one another.",
+    "headline": "A government for every Minnesotan.",
+    "lede": "From the forested shores of the North Shore to the rolling farmlands of the Red River Valley, the work of state government is to protect our communities, strengthen our economy, and uphold the commitments we share to one another.",
     "primaryCta":   { "label": "Read the Governor's latest statement", "href": "statements.html" },
     "secondaryCta": { "label": "Track legislation",                    "href": "legislation.html" }
   },
   "footer": {
-    "address": "Office of the Governor · PO Box 40002 · Olympia, WA 98504-0002",
-    "phone":   "(360) 902-4111",
-    "press":   "press@gov.wa.gov"
+    "address": "Office of the Governor · 130 State Capitol · MN 55155",
+    "phone":   "(651) 201-3400",
+    "press":   "press@gov.mn.gov"
   }
 }
