@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "EO-26-05-002",
+    "number": "26-05-002",
+    "title": "Continued Mandates Concerning The Coronavirus",
+    "issued": "2020-03-01",
+    "status": "active",
+    "topics": [
+      "Public Health",
+      "Emergency Management",
+      "COVID"
+    ],
+    "summary": "This order mandates that all schools in Washington immediately transfer to virtual learning and shutter all educational operations intended for a face-to-face audience of ten or more. Further, this order implements a temporary moratorium on evictions for the next eight months, mandates the usage of masks in public spaces, and requires that all nonessential personnel in the Washington government and other private companies operating within Washington commence their work from home. This order also strengthens the ban on large public gatherings to define a \"large public gathering\" as twelve or more people."
+  },
+  {
+    "id": "EO-26-05-001",
+    "number": "001",
+    "title": "Public Health Mandates Concerning The Coronavirus",
+    "issued": "2020-01-31",
+    "status": "active",
+    "topics": [
+      "emergency management",
+      "coronavirus"
+    ],
+    "summary": "This order establishes statewide mandates to address and ameliorate the impending disaster with respect to the Coronavirus pandemic. The order, in particular, ensures a partial lockdown mandate, establishes the first \"six feet apart\" social distancing regulations in the nation, provides for the migration of education to a virtual model, and accesses the seventeen billion dollars appropriated for \"Public Health R&D, Preparedness, and Management\", as well as the three-and-a-half billion dollars appropriated for Emergency Preparedness to assist in managing and mitigating the COVID crisis. "
+  }
+]
